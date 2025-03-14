@@ -28,7 +28,7 @@
 
 ### 📫 Contact Me  
 📍 **Portfolio** : In progress...
-📍 **LinkedIn** : [linkedin.com/in/guillaume-crepin-785717356](#)
-📍 **Twitter** : [twitter.com/MastaKweps](#)
+📍 **LinkedIn** : [Guillaume Crepin](linkedin.com/in/guillaume-crepin-785717356)
+📍 **Twitter** : [MastaKweps](twitter.com/MastaKweps)
 
 
