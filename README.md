@@ -1,15 +1,15 @@
-# 👋 Hello, moi c'est MastaKweps !
-🚀 Développeur Intégrateur en formation | 🌱 Débutant motivé | 🎯 Objectif : devenir Fullstack
+# 👋 Hello, I'm MastaKweps !
+🚀 Developer & Integrator in training | 🌱 Motivated beginner | 🎯 Goal: Become Fullstack
 
 ---
 
-### ✨ Qui suis-je ?  
-- 🎓 Je me forme actuellement au développement web
-- 💡 Objectif : Créer mes premiers projets et contribuer à l'open-source
+### ✨ Who am I ?  
+- 🎓 Currently learning web development
+- 💡 Goal: Build my first projects and contribute to open-source
 
 ---
 
-### 🛠️ Technologies que j’apprends  
+### 🛠️ Technologies I'm learning  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -18,16 +18,16 @@
 
 ---
 
-### 📈 Mes Stats GitHub
-📌 (Elles vont s'améliorer avec le temps 😉)
+### 📈 My GitHub Stats
+📌 (They will improve over time 😉)
 ![Stats](https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Me contacter  
-📍 **Portfolio** : En cours de création...
+### 📫 Contact Me  
+📍 **Portfolio** : In progress...
 📍 **LinkedIn** : [linkedin.com/in/guillaume-crepin-785717356](#)
 📍 **Twitter** : [twitter.com/MastaKweps](#)
 
-💡 **"Le plus important, c'est de commencer et d'apprendre un peu chaque jour !"** 🚀
+💡 **"The most important thing is to start and learn a little every day !"** 🚀
