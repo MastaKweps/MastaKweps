@@ -31,4 +31,4 @@
 📍 **LinkedIn** : [linkedin.com/in/guillaume-crepin-785717356](#)
 📍 **Twitter** : [twitter.com/MastaKweps](#)
 
-💡 **"The most important thing is to start and learn a little every day !"** 🚀
+
