@@ -20,6 +20,7 @@
 
 ### 📈 My GitHub Stats
 📌 (They will improve over time 😉)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight)
 
